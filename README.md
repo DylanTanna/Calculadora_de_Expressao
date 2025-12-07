@@ -1,4 +1,4 @@
-# 🔢 Calculadora de Expressões em C  
+# Calculadora de Expressões em C  
 *Interpretador desenvolvido como desafio da disciplina de Estrutura de Dados.*
 
 ---
@@ -32,15 +32,15 @@ O foco do projeto foi o aprendizado de:
 
 ## O que o projeto faz
 
-- 🎯 Tokeniza expressões em **números e operadores**
-- 🎯 Aplica níveis de precedência:
+-  Tokeniza expressões em **números e operadores**
+-  Aplica níveis de precedência:
   - `^` → potência  
   - `*` e `/` → multiplicação e divisão  
   - `+` e `-` → soma e subtração  
-- 🎯 Lê a expressão **apenas uma vez**
-- 🎯 Suporta **números decimais**
-- 🎯 Calcula tudo com funções próprias
-- 🎯 Retorna o resultado formatado
+-  Lê a expressão **apenas uma vez**
+-  Suporta **números decimais**
+-  Calcula tudo com funções próprias
+-  Retorna o resultado formatado
 
 ---
 
